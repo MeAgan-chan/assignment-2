@@ -1,49 +1,39 @@
-Your Project's Name
-One or two paragraphs providing an overview of your project. Tell us about your project.
-
-Essentially, this part is your sales pitch.
+MedAid
+This project will allow users to find articles about various illnesses and diseases as well as find hospitals and polyclinics around them. This project is directed to the general public who want to know more about the possible diseases prevalant in their lives, as well as just to be knowledgable about the healthsites around them.(The term "healthsites" is used to describe clinics, polyclinics and hospitals alike.) This website will 'aid' people in their understanding of illnesses that they could get and how they can prevent themselves from getting said illnesses.
+In addition to finding healthsites around the user, they will also know the price range of them. the price range would be based of just a general consultation for walk-in illnesses (ie. flu, fever), excluding special cases like gynacologist services and cancer treatment.
 
 Design Process
+
 Provide us insights about your design process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
-In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
+As a patient, I want to know more about the hospitals and clinics near me, so that I can find medical attention quickly when I need it. As a patient of a lower Social-Economical Status, I want to know the price range of the healthsites that are near me, so that I not only know the healthsites around me but also the most affordable healthsite to go to. As a person with no particular illnesses, I want to know more about the illnesses I could get, so that I could prevent the possibilities of getting that said illness,
 
-As a user type, I want to perform an action, so that I can achieve a goal.
+
 This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in an separate directory) Include the Adobe XD wireframe as a folder. You can include the XD share url.
 
 Features
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
+After leaving the start page, the user can either access the map or the medical articles. The map will allow users to see all of Singapore's hospitals, clinics and polyclinics. You can also check the price-range of each healthsite when selecting on the locations. From the medical articles, users can look through articles of various illnesses, as well as search for soecific illnesses to look up on.
 
 Existing Features
-Feature 1 - allows users X to achieve Y, by having them fill out Z
-...
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+After leaving the start page, the user can either access the map or the medical articles. The map will allow users to see all of Singapore's hospitals, clinics and polyclinics. From the medical articles, users can look through articles of various illnesses, as well as search for soecific illnesses to look up on.
 
-Features Left to Implement
-Another feature idea
-Technologies Used
-In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
+Features Left to Implement / Additional features
+I wish for this project to be world-wide instead of just situated in Singapore, as the knowledge of illnesses should be prevalant among everyone regardless of nationality. Because of this I need to get the price range of all healthsites out of Singapore as well.
+I would also want doctors and medical specialists to be able to host forums in which users may ask questions and they will answer.
+This could be done by having a "sign-in" function where users can either sign in as a patient or a specialist. This would also require legitamate autorization on the specialist's part.
+Due to lack of time and resources, the price-range of healthsites has not become an existing feature.
 
 JQuery
 The project uses JQuery to simplify DOM manipulation.
 Testing
 For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
 
-Contact form:
-Go to the "Contact Us" page
-Try to submit the empty form and verify that an error message about the required fields appears
-Try to submit the form with an invalid email address and verify that a relevant error message appears
-Try to submit the form with all inputs valid and verify that a success message appears.
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
 
 If this section grows too long, you may want to split it off into a separate file and link to it from here.
 
 Credits
-Content
-The text for section Y was copied from the Wikipedia article Z
-Media
-The photos used in this site were obtained from ...
-Acknowledgements
-I received inspiration for this project from X
+-This project has used w3schools as reference for some of its displays
+-healthsites.io rpovided the API used to locate all healthsites in the world
+
+Wedsite Link:
+https://meagan-chan.github.io/assignment-2/
