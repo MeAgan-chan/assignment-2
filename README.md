@@ -9,16 +9,23 @@ Provide us insights about your design process, focusing on who this website is f
 
 As a patient, I want to know more about the hospitals and clinics near me, so that I can find medical attention quickly when I need it. As a patient of a lower Social-Economical Status, I want to know the price range of the healthsites that are near me, so that I not only know the healthsites around me but also the most affordable healthsite to go to. As a person with no particular illnesses, I want to know more about the illnesses I could get, so that I could prevent the possibilities of getting that said illness,
 
+ 
+XD share url:
 
-This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in an separate directory) Include the Adobe XD wireframe as a folder. You can include the XD share url.
+Website:https://xd.adobe.com/view/7e940ab2-fbb9-488c-a128-5e54146cbeec-2bc7/
+
+Phone:https://xd.adobe.com/view/68e0a484-b38c-405f-b7e2-79a8e799ad27-3db3/
 
 Features
+
 After leaving the start page, the user can either access the map or the medical articles. The map will allow users to see all of Singapore's hospitals, clinics and polyclinics. You can also check the price-range of each healthsite when selecting on the locations. From the medical articles, users can look through articles of various illnesses, as well as search for soecific illnesses to look up on.
 
 Existing Features
+
 After leaving the start page, the user can either access the map or the medical articles. The map will allow users to see all of Singapore's hospitals, clinics and polyclinics. From the medical articles, users can look through articles of various illnesses, as well as search for soecific illnesses to look up on.
 
 Features Left to Implement / Additional features
+
 I wish for this project to be world-wide instead of just situated in Singapore, as the knowledge of illnesses should be prevalant among everyone regardless of nationality. Because of this I need to get the price range of all healthsites out of Singapore as well.
 I would also want doctors and medical specialists to be able to host forums in which users may ask questions and they will answer.
 This could be done by having a "sign-in" function where users can either sign in as a patient or a specialist. This would also require legitamate autorization on the specialist's part.
