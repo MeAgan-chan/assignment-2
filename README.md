@@ -1,4 +1,5 @@
 MedAid
+
 This project will allow users to find articles about various illnesses and diseases as well as find hospitals and polyclinics around them. This project is directed to the general public who want to know more about the possible diseases prevalant in their lives, as well as just to be knowledgable about the healthsites around them.(The term "healthsites" is used to describe clinics, polyclinics and hospitals alike.) This website will 'aid' people in their understanding of illnesses that they could get and how they can prevent themselves from getting said illnesses.
 In addition to finding healthsites around the user, they will also know the price range of them. the price range would be based of just a general consultation for walk-in illnesses (ie. flu, fever), excluding special cases like gynacologist services and cancer treatment.
 
